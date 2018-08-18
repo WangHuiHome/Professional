@@ -1,0 +1,11 @@
+D:\code\Professional\GetAStringDemo\bin\Debug\netcoreapp2.1\GetAStringDemo.deps.json
+D:\code\Professional\GetAStringDemo\bin\Debug\netcoreapp2.1\GetAStringDemo.runtimeconfig.json
+D:\code\Professional\GetAStringDemo\bin\Debug\netcoreapp2.1\GetAStringDemo.runtimeconfig.dev.json
+D:\code\Professional\GetAStringDemo\bin\Debug\netcoreapp2.1\GetAStringDemo.dll
+D:\code\Professional\GetAStringDemo\bin\Debug\netcoreapp2.1\GetAStringDemo.pdb
+D:\code\Professional\GetAStringDemo\obj\Debug\netcoreapp2.1\GetAStringDemo.csprojAssemblyReference.cache
+D:\code\Professional\GetAStringDemo\obj\Debug\netcoreapp2.1\GetAStringDemo.csproj.CoreCompileInputs.cache
+D:\code\Professional\GetAStringDemo\obj\Debug\netcoreapp2.1\GetAStringDemo.AssemblyInfoInputs.cache
+D:\code\Professional\GetAStringDemo\obj\Debug\netcoreapp2.1\GetAStringDemo.AssemblyInfo.cs
+D:\code\Professional\GetAStringDemo\obj\Debug\netcoreapp2.1\GetAStringDemo.dll
+D:\code\Professional\GetAStringDemo\obj\Debug\netcoreapp2.1\GetAStringDemo.pdb
