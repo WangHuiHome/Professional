@@ -1,0 +1,11 @@
+D:\code\Professional\VariablesSample\bin\Debug\netcoreapp2.1\VariablesSample.deps.json
+D:\code\Professional\VariablesSample\bin\Debug\netcoreapp2.1\VariablesSample.runtimeconfig.json
+D:\code\Professional\VariablesSample\bin\Debug\netcoreapp2.1\VariablesSample.runtimeconfig.dev.json
+D:\code\Professional\VariablesSample\bin\Debug\netcoreapp2.1\VariablesSample.dll
+D:\code\Professional\VariablesSample\bin\Debug\netcoreapp2.1\VariablesSample.pdb
+D:\code\Professional\VariablesSample\obj\Debug\netcoreapp2.1\VariablesSample.csprojAssemblyReference.cache
+D:\code\Professional\VariablesSample\obj\Debug\netcoreapp2.1\VariablesSample.csproj.CoreCompileInputs.cache
+D:\code\Professional\VariablesSample\obj\Debug\netcoreapp2.1\VariablesSample.AssemblyInfoInputs.cache
+D:\code\Professional\VariablesSample\obj\Debug\netcoreapp2.1\VariablesSample.AssemblyInfo.cs
+D:\code\Professional\VariablesSample\obj\Debug\netcoreapp2.1\VariablesSample.dll
+D:\code\Professional\VariablesSample\obj\Debug\netcoreapp2.1\VariablesSample.pdb

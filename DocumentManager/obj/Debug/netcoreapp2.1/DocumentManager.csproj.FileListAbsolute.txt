@@ -1,0 +1,11 @@
+D:\code\Professional\DocumentManager\bin\Debug\netcoreapp2.1\DocumentManager.deps.json
+D:\code\Professional\DocumentManager\bin\Debug\netcoreapp2.1\DocumentManager.runtimeconfig.json
+D:\code\Professional\DocumentManager\bin\Debug\netcoreapp2.1\DocumentManager.runtimeconfig.dev.json
+D:\code\Professional\DocumentManager\bin\Debug\netcoreapp2.1\DocumentManager.dll
+D:\code\Professional\DocumentManager\bin\Debug\netcoreapp2.1\DocumentManager.pdb
+D:\code\Professional\DocumentManager\obj\Debug\netcoreapp2.1\DocumentManager.csprojAssemblyReference.cache
+D:\code\Professional\DocumentManager\obj\Debug\netcoreapp2.1\DocumentManager.csproj.CoreCompileInputs.cache
+D:\code\Professional\DocumentManager\obj\Debug\netcoreapp2.1\DocumentManager.AssemblyInfoInputs.cache
+D:\code\Professional\DocumentManager\obj\Debug\netcoreapp2.1\DocumentManager.AssemblyInfo.cs
+D:\code\Professional\DocumentManager\obj\Debug\netcoreapp2.1\DocumentManager.dll
+D:\code\Professional\DocumentManager\obj\Debug\netcoreapp2.1\DocumentManager.pdb

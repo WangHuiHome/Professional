@@ -1,0 +1,11 @@
+D:\code\Professional\LambdaExpressions\bin\Debug\netcoreapp2.1\LambdaExpressions.deps.json
+D:\code\Professional\LambdaExpressions\bin\Debug\netcoreapp2.1\LambdaExpressions.runtimeconfig.json
+D:\code\Professional\LambdaExpressions\bin\Debug\netcoreapp2.1\LambdaExpressions.runtimeconfig.dev.json
+D:\code\Professional\LambdaExpressions\bin\Debug\netcoreapp2.1\LambdaExpressions.dll
+D:\code\Professional\LambdaExpressions\bin\Debug\netcoreapp2.1\LambdaExpressions.pdb
+D:\code\Professional\LambdaExpressions\obj\Debug\netcoreapp2.1\LambdaExpressions.csprojAssemblyReference.cache
+D:\code\Professional\LambdaExpressions\obj\Debug\netcoreapp2.1\LambdaExpressions.csproj.CoreCompileInputs.cache
+D:\code\Professional\LambdaExpressions\obj\Debug\netcoreapp2.1\LambdaExpressions.AssemblyInfoInputs.cache
+D:\code\Professional\LambdaExpressions\obj\Debug\netcoreapp2.1\LambdaExpressions.AssemblyInfo.cs
+D:\code\Professional\LambdaExpressions\obj\Debug\netcoreapp2.1\LambdaExpressions.dll
+D:\code\Professional\LambdaExpressions\obj\Debug\netcoreapp2.1\LambdaExpressions.pdb
