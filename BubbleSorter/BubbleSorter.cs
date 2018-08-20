@@ -21,8 +21,7 @@ namespace BubbleSorter
                         swapped = true;
                     }
                 }
-            }
-            while(swapped);
+            }while(swapped);
         }
     }
 }

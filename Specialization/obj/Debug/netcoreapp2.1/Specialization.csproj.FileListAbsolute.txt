@@ -1,0 +1,11 @@
+D:\code\Professional\Specialization\bin\Debug\netcoreapp2.1\Specialization.deps.json
+D:\code\Professional\Specialization\bin\Debug\netcoreapp2.1\Specialization.runtimeconfig.json
+D:\code\Professional\Specialization\bin\Debug\netcoreapp2.1\Specialization.runtimeconfig.dev.json
+D:\code\Professional\Specialization\bin\Debug\netcoreapp2.1\Specialization.dll
+D:\code\Professional\Specialization\bin\Debug\netcoreapp2.1\Specialization.pdb
+D:\code\Professional\Specialization\obj\Debug\netcoreapp2.1\Specialization.csprojAssemblyReference.cache
+D:\code\Professional\Specialization\obj\Debug\netcoreapp2.1\Specialization.csproj.CoreCompileInputs.cache
+D:\code\Professional\Specialization\obj\Debug\netcoreapp2.1\Specialization.AssemblyInfoInputs.cache
+D:\code\Professional\Specialization\obj\Debug\netcoreapp2.1\Specialization.AssemblyInfo.cs
+D:\code\Professional\Specialization\obj\Debug\netcoreapp2.1\Specialization.dll
+D:\code\Professional\Specialization\obj\Debug\netcoreapp2.1\Specialization.pdb

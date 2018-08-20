@@ -1,0 +1,11 @@
+D:\code\Professional\GenericMethods\bin\Debug\netcoreapp2.1\GenericMethods.deps.json
+D:\code\Professional\GenericMethods\bin\Debug\netcoreapp2.1\GenericMethods.runtimeconfig.json
+D:\code\Professional\GenericMethods\bin\Debug\netcoreapp2.1\GenericMethods.runtimeconfig.dev.json
+D:\code\Professional\GenericMethods\bin\Debug\netcoreapp2.1\GenericMethods.dll
+D:\code\Professional\GenericMethods\bin\Debug\netcoreapp2.1\GenericMethods.pdb
+D:\code\Professional\GenericMethods\obj\Debug\netcoreapp2.1\GenericMethods.csprojAssemblyReference.cache
+D:\code\Professional\GenericMethods\obj\Debug\netcoreapp2.1\GenericMethods.csproj.CoreCompileInputs.cache
+D:\code\Professional\GenericMethods\obj\Debug\netcoreapp2.1\GenericMethods.AssemblyInfoInputs.cache
+D:\code\Professional\GenericMethods\obj\Debug\netcoreapp2.1\GenericMethods.AssemblyInfo.cs
+D:\code\Professional\GenericMethods\obj\Debug\netcoreapp2.1\GenericMethods.dll
+D:\code\Professional\GenericMethods\obj\Debug\netcoreapp2.1\GenericMethods.pdb

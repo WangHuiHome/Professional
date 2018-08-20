@@ -1,0 +1,11 @@
+D:\code\Professional\LinkListSample\bin\Debug\netcoreapp2.1\LinkListSample.deps.json
+D:\code\Professional\LinkListSample\bin\Debug\netcoreapp2.1\LinkListSample.runtimeconfig.json
+D:\code\Professional\LinkListSample\bin\Debug\netcoreapp2.1\LinkListSample.runtimeconfig.dev.json
+D:\code\Professional\LinkListSample\bin\Debug\netcoreapp2.1\LinkListSample.dll
+D:\code\Professional\LinkListSample\bin\Debug\netcoreapp2.1\LinkListSample.pdb
+D:\code\Professional\LinkListSample\obj\Debug\netcoreapp2.1\LinkListSample.csprojAssemblyReference.cache
+D:\code\Professional\LinkListSample\obj\Debug\netcoreapp2.1\LinkListSample.csproj.CoreCompileInputs.cache
+D:\code\Professional\LinkListSample\obj\Debug\netcoreapp2.1\LinkListSample.AssemblyInfoInputs.cache
+D:\code\Professional\LinkListSample\obj\Debug\netcoreapp2.1\LinkListSample.AssemblyInfo.cs
+D:\code\Professional\LinkListSample\obj\Debug\netcoreapp2.1\LinkListSample.dll
+D:\code\Professional\LinkListSample\obj\Debug\netcoreapp2.1\LinkListSample.pdb
