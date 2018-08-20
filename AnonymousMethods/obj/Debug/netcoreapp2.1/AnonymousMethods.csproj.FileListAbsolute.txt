@@ -1,0 +1,11 @@
+D:\code\Professional\AnonymousMethods\bin\Debug\netcoreapp2.1\AnonymousMethods.deps.json
+D:\code\Professional\AnonymousMethods\bin\Debug\netcoreapp2.1\AnonymousMethods.runtimeconfig.json
+D:\code\Professional\AnonymousMethods\bin\Debug\netcoreapp2.1\AnonymousMethods.runtimeconfig.dev.json
+D:\code\Professional\AnonymousMethods\bin\Debug\netcoreapp2.1\AnonymousMethods.dll
+D:\code\Professional\AnonymousMethods\bin\Debug\netcoreapp2.1\AnonymousMethods.pdb
+D:\code\Professional\AnonymousMethods\obj\Debug\netcoreapp2.1\AnonymousMethods.csprojAssemblyReference.cache
+D:\code\Professional\AnonymousMethods\obj\Debug\netcoreapp2.1\AnonymousMethods.csproj.CoreCompileInputs.cache
+D:\code\Professional\AnonymousMethods\obj\Debug\netcoreapp2.1\AnonymousMethods.AssemblyInfoInputs.cache
+D:\code\Professional\AnonymousMethods\obj\Debug\netcoreapp2.1\AnonymousMethods.AssemblyInfo.cs
+D:\code\Professional\AnonymousMethods\obj\Debug\netcoreapp2.1\AnonymousMethods.dll
+D:\code\Professional\AnonymousMethods\obj\Debug\netcoreapp2.1\AnonymousMethods.pdb
